@@ -1,8 +1,14 @@
 {
 	"SourceFiles": [
+<<<<<<< HEAD
 		"D:\\GitStudy\\Hw05-Mine\\Source\\HW_05\\HW_05.Build.cs",
 		"D:\\GitStudy\\Hw05-Mine\\Source\\HW_05.Target.cs",
 		"D:\\GitStudy\\Hw05-Mine\\Source\\HW_05Editor.Target.cs"
+=======
+		"D:\\GitStudy\\Hw05-Other\\Source\\HW_05\\HW_05.Build.cs",
+		"D:\\GitStudy\\Hw05-Other\\Source\\HW_05.Target.cs",
+		"D:\\GitStudy\\Hw05-Other\\Source\\HW_05Editor.Target.cs"
+>>>>>>> b7467cc65b815e84695acb1b4ba70ddf0619aaa2
 	],
 	"EngineVersion": "5.5.4"
 }
